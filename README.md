@@ -7,8 +7,8 @@ O projeto foi criado com foco em **boas práticas de arquitetura**, **facilidade
 
 ## 🚀 Tecnologias Utilizadas
 
-![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-brightgreen?style=for-the-badge&logo=springboot)
+![Java](https://img.shields.io/badge/Java-21-red?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5-brightgreen?style=for-the-badge&logo=springboot)
 ![SQLite](https://img.shields.io/badge/SQLite-DB-blue?style=for-the-badge&logo=sqlite)
 ![Maven](https://img.shields.io/badge/Maven-Build-orange?style=for-the-badge&logo=apachemaven)
 ![Lombok](https://img.shields.io/badge/Lombok-Annotation-yellow?style=for-the-badge)
